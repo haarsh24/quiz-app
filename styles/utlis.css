@@ -8,6 +8,7 @@
   --shadow: 5px 5px 9px #0f4d09, -5px -5px 9px #8aff67;
   --shadow-dark:#0f4d09;
   --shadow-light:#8aff67;
+  --danger:#8d1919;
 }
 * {
   color: var(--text-color);

@@ -1,0 +1,9 @@
+.lists-item-stacked:hover {
+ background-color: var(--primary-color);
+ color:var(--secondary-color);
+}
+
+.danger{
+    background-color: var(--danger);
+    color:var(--secondary-color);
+}
