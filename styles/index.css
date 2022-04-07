@@ -1,0 +1,18 @@
+.title{
+    font-size: 5rem;
+}
+
+.summary{
+    font-size: 3rem;
+}
+.page-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.play-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
